@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Things to Forget</string>
+    <string name="action_settings">Settings</string>
+    <string name="snackbar_create_list">Why not add another list of things to forget?</string>
+    <string name="snackbar_create_item">Don\'t you feel better? Forget it. :)</string>
+    <string name="dialog_btn_create">Add</string>
+    <string name="dialog_btn_remove">Remove</string>
+    <string name="dialog_btn_cancel">Cancel</string>
+    <string name="dialog_title_create_list">Create List</string>
+    <string name="dialog_title_create_item">Create Item</string>
+    <string name="dialog_hint_list_name">Name of things to forget</string>
+    <string name="dialog_hint_item_name">What will you forget?</string>
+    <string name="dialog_hint_item_description">Describe what you\'re forgetting</string>
+    <string name="str_welcome_msg">Do you have things you need to forget? Add them here and never open the list again.</string>
+</resources>
